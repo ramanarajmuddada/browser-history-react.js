@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  font-family: 'roboto';
+}
+
+.each-list {
+  height: 60px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.domain-details {
+  display: flex;
+  align-items: center;
+}
+
+.domain-details-pera {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 5px;
+}
+
+.time-sty {
+  font-size: 13px;
+  font-weight: 600;
+  color: #64748b;
+  margin-right: 35px;
+}
+
+.domain-log-sty {
+  height: 25px;
+  width: 25px;
+  /* margin-right: 5%; */
+}
+
+.title-sty {
+  font-size: 15px;
+  font-weight: 600;
+  color: #475569;
+  margin: 5px;
+}
+
+.url-sty {
+  font-size: 12px;
+  font-weight: 500;
+  color: #64748b;
+  margin: 5px;
+}
+
+.delete-image {
+  height: 20px;
+  margin: 10px;
+}
+
+.button-sty {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  margin-left: auto;
+  cursor: pointer;
+}
